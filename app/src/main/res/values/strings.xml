@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">walmart_coding</string>
+    <string name="walmart_test_products_url">"https://mobile-tha-server.firebaseapp.com%s"</string>
+    <string name="product_id">Product ID:</string>
+    <string name="name">Name:</string>
+    <string name="price">Price:</string>
+    <string name="description">description:</string>
+
+</resources>
